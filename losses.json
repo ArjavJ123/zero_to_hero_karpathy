@@ -1,0 +1,59 @@
+{
+  "updated_at": "2026-04-13 03:14:06",
+  "notebooks": {
+    "makemore.ipynb": {
+      "min_train_loss": null,
+      "min_dev_loss": null,
+      "final_train_loss": null,
+      "final_dev_loss": null,
+      "n_train_evals": 0,
+      "n_dev_evals": 0,
+      "last_modified": "2026-01-30 22:49:59"
+    },
+    "makemore_2.ipynb": {
+      "min_train_loss": null,
+      "min_dev_loss": null,
+      "final_train_loss": null,
+      "final_dev_loss": null,
+      "n_train_evals": 0,
+      "n_dev_evals": 0,
+      "last_modified": "2026-02-09 18:14:26"
+    },
+    "makemore_gpt.ipynb": {
+      "min_train_loss": 2.3739,
+      "min_dev_loss": null,
+      "final_train_loss": 2.3739,
+      "final_dev_loss": null,
+      "n_train_evals": 10,
+      "n_dev_evals": 0,
+      "last_modified": "2026-04-13 03:13:57"
+    },
+    "makemore_wavenet.ipynb": {
+      "min_train_loss": 1.9764,
+      "min_dev_loss": 2.0702,
+      "final_train_loss": 1.9764,
+      "final_dev_loss": 2.0702,
+      "n_train_evals": 1,
+      "n_dev_evals": 1,
+      "last_modified": "2026-03-25 01:34:33"
+    },
+    "makemore_wavenet_resnet.ipynb": {
+      "min_train_loss": 1.9836,
+      "min_dev_loss": 2.0751,
+      "final_train_loss": 1.9836,
+      "final_dev_loss": 2.0751,
+      "n_train_evals": 1,
+      "n_dev_evals": 1,
+      "last_modified": "2026-04-06 01:14:25"
+    },
+    "makemore_wavenet_resnet_skip.ipynb": {
+      "min_train_loss": 2.0235,
+      "min_dev_loss": 2.0818,
+      "final_train_loss": 2.0235,
+      "final_dev_loss": 2.0818,
+      "n_train_evals": 1,
+      "n_dev_evals": 1,
+      "last_modified": "2026-04-05 03:36:44"
+    }
+  }
+}
